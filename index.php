@@ -18,12 +18,16 @@
     <h1>Services</h1>
 
     <div id="hservices">
-      <div class="powder">
+      <div>
+        <img src="images/shield1.svg" alt="">
+
         <h2>Powder Coating</h2>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ut urna in erat iaculis ullamcorper nec nec nisi. Nulla facilisi. Proin convallis nibh ac augue tempor ultricies.<br><br>Curabitur ut urna in erat iaculis ullamcorper nec nec nisi. Nulla facilisi.
       </div>
 
-      <div class="sandblasting">
+      <div>
+        <img src="images/shield2.svg" alt="">
+
         <h2>Sandblasting</h2>
         Armour Coatings Blast Booth provides in-house blasting for parts up to 24 feet in length. The system utilizes Aluminum Oxide media to meet industry standards.<br>
         <br>
