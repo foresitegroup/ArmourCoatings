@@ -4,7 +4,7 @@
 
         <div>
           <div>Give us a call!</div>
-          <span>(262)</span> 502-1600
+          <a href="tel:2625021600"><span>(262)</span> 502-1600</a>
         </div>
       </div>
     </footer>

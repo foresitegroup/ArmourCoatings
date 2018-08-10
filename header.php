@@ -20,6 +20,10 @@
       $(document).ready(function() {
         $("a[href^='http']").not("[href*='" + window.location.host + "']").prop('target','new');
         $("a[href$='.pdf']").prop('target', 'new');
+
+        $('a.download').each(function(){ 
+          $(this).prop({'href': 'download.php?f='+$(this).prop('href'), 'target': ''});
+        });
       });
     </script>
   </head>
