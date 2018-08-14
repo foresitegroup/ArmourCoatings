@@ -19,7 +19,7 @@ include "header.php";
       <img src="images/shield1.svg" alt="">
 
       <h2>Powder Coating</h2>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ut urna in erat iaculis ullamcorper nec nec nisi. Nulla facilisi. Proin convallis nibh ac augue tempor ultricies.
+      Armour Coatings uses the most common process called electrostatic spray deposition (ESD) to achieve the application of the powder coating to a metal substrate.  This application method uses a spray gun, which applies an electrostatic charge to the powder particles, which are then attracted to the grounded part.  After application of the powder coating, the parts enter a curing oven where, with the addition of heat, the coating chemically reacts to produce long molecular chains, resulting in high cross-link density.
     </div>
   </div>
 
@@ -29,7 +29,7 @@ include "header.php";
 <div id="services-sandblasting">
   <div class="site-width">
     <div class="text">
-      <img src="images/shield2.svg" alt="">
+      <img src="images/shield2-white.svg" alt="">
 
       <h2>Sandblasting</h2>
       Armour Coatings Blast Booth provides in-house blasting for parts up to 24 feet in length. The system utilizes Aluminum Oxide media to meet industry standards.<br>

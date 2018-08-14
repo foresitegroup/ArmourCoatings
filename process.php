@@ -34,9 +34,9 @@ include "header.php";
 <div id="process3">
   <div class="site-width">
     <div>
-      <img src="images/shield-line3.svg" alt="">
+      <img src="images/shield-line3-white.svg" alt="">
 
-      <h2>Automatic Application Powder <span>[with 6 automatic gema guns]</h2>
+      <h2>Automatic Application Powder <span>[with Automated Gema Guns]</h2>
       Six Stage Nanotechnology CAT approved pre-treatment with Alkaline and Laser Oxide Removal as needed.<br>
       <br>
 

@@ -33,17 +33,16 @@ include "header.php";
     <div>
       <h3>3 Powder Coating Production Lines</h3>
 
-      <h4>Line 1 - Manual Powder Application</h4>
-      Mixed metals including hot and cold rolled steel, aluminum, castings, brass, stainless steel, etc.<br>
+      <h4>Line 1 Manual Powder Application</h4>
+      Small and medium size part conveyor system with six stage nanotechnology CAT pre-treatment including laser oxide removal as needed. Manual powder application with inline cure oven.<br>
       <br>
 
       <h4>Line 2 Batch System Manual Application Powder</h4>
-      10,000 sq. ft. containing a large part blasting booth as well as a small part blasting cabinet.<br>
+      Large part non-conveyor manual powder application with stand-alone batch cure oven.<br>
       <br>
 
       <h4>Line 3 Automatic Powder Application with Touch Up Gun</h4>
-      54 to 80 Grit Aluminum Oxide (Large Blast Booth)<br>
-      Glass Bead (Small Part Blast Cabinet)
+      Small part conveyor system with six stage nanotechnology CAT pre-treatment with laser oxide removal as needed. Automatic gun powder application, with inline curing oven.
     </div>
 
     <div>

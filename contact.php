@@ -57,6 +57,10 @@ include "header.php";
   </div>
 </div>
 
+<div class="site-width employment">
+  Want to join us? Check out our <a href="employment.php">employment page</a>.
+</div>
+
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDTbHAsLFN-nVXXIDAZiynPZT1DfoDyNwE"></script>
 <script>
   function initialize() {
@@ -204,8 +208,7 @@ include "header.php";
       <span>Armour Coatings Inc.</span><br><br>
       N113 W18950 Carnegie Drive<br>
       Germantown, WI 53022<br><br>
-      Phone: 262-502-1600<br><br>
-      Fax: 262-502-1616
+      Phone: 262-502-1600
     </div>
   </div>
 

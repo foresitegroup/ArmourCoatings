@@ -22,7 +22,7 @@
         <img src="images/shield1.svg" alt="">
 
         <h2>Powder Coating</h2>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ut urna in erat iaculis ullamcorper nec nec nisi. Nulla facilisi. Proin convallis nibh ac augue tempor ultricies.<br><br>Curabitur ut urna in erat iaculis ullamcorper nec nec nisi. Nulla facilisi.
+        Armour Coatings uses the most common process called electrostatic spray deposition (ESD) to achieve the application of the powder coating to a metal substrate.  This application method uses a spray gun, which applies an electrostatic charge to the powder particles, which are then attracted to the grounded part.  After application of the powder coating, the parts enter a curing oven where, with the addition of heat, the coating chemically reacts to produce long molecular chains, resulting in high cross-link density.
       </div>
 
       <div>
