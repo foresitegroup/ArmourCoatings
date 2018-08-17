@@ -11,8 +11,8 @@
     <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
     <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 
-    <meta name="description" content="">
-    <meta name="keywords" content="">
+    <meta name="description" content="Armour Coatings is a multi-metal job shop custom powder coater and sandblaster, located in Germantown, Wisconsin. AC operates from a 45,000 sq. ft. facility that employs the latest technologies for part cleaning, powder delivery and curing of finishes.">
+    <meta name="keywords" content="Armour coatings, powder coating, part cleaning, curing ovens, sandblasting, custom colors, color matching, glass bead, masking, Aluminum Oxide, ISO, ISO Certificate, electrostatic spay deposition, ESD, Germantown, Wisconsin, WI, Milwaukee, Mequon, sandblasting, industrial powder coating, architectural, hardware, housewares, automotive, marine, agricultural, marine">
 
     <link href="https://fonts.googleapis.com/css?family=Exo:700,800|Open+Sans:600,700,800" rel="stylesheet">
     <link rel="stylesheet" href="inc/main.css?<?php echo filemtime('inc/main.css'); ?>">
