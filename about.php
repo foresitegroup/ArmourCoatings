@@ -41,7 +41,7 @@ include "header.php";
       Large part non-conveyor manual powder application with stand-alone batch cure oven.<br>
       <br>
 
-      <h4>Line 3 Automatic Powder Application with Touch Up Gun</h4>
+      <h4>Line 3 Automatic Powder Application</h4>
       Small part conveyor system with six stage nanotechnology CAT pre-treatment with laser oxide removal as needed. Automatic gun powder application, with inline curing oven.
     </div>
 
