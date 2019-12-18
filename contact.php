@@ -18,7 +18,7 @@ include "header.php";
     <div>
       <img src="images/brad-dubnicka.jpg" alt="Brad Dubnicka">
       <h4>Brad Dubnicka</h4>
-      <h5>General/Sales Manager</h5>
+      <h5>Chief Operations Officer</h5>
       <a href="mailto:bradd@armourcoatings.com"><span>bradd</span>@armourcoatings.com</a><br>
       (262)502-1600 <span>ext 206</span>
     </div>
