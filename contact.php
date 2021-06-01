@@ -32,14 +32,6 @@ include "header.php";
     </div>
 
     <div>
-      <img src="images/anna-yahnke.jpg" alt="Anna Yahnke">
-      <h4>Anna Yahnke</h4>
-      <h5>Accounts Receivable/Payable</h5>
-      <a href="mailto:annaj@armourcoatings.com"><span>annaj</span>@armourcoatings.com</a><br>
-      (262)502-1600 <span>ext 205</span>
-    </div>
-
-    <div>
       <img src="images/charles-meyer.jpg" alt="Charles Meyer">
       <h4>Charles Meyer</h4>
       <h5>Customer Service</h5>
