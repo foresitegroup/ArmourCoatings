@@ -26,7 +26,7 @@ include "header.php";
     <div>
       <img src="images/mike-raab.jpg" alt="Mike Raab">
       <h4>Mike Raab</h4>
-      <h5>Sales</h5>
+      <h5>General Manager</h5>
       <a href="mailto:miker@armourcoatings.com"><span>miker</span>@armourcoatings.com</a><br>
       (262)502-1600 <span>ext 202</span>
     </div>
@@ -37,14 +37,6 @@ include "header.php";
       <h5>Customer Service</h5>
       <a href="mailto:charlesm@armourcoatings.com"><span>charlesm</span>@armourcoatings.com</a><br>
       (262)502-1600 <span>ext 210</span>
-    </div>
-
-    <div>
-      <img src="images/amanda-mutz.jpg" alt="Amanda Mutz">
-      <h4>Amanda Mutz</h4>
-      <h5>Finance + Accounts Manager</h5>
-      <a href="mailto:amandam@armourcoatings.com"><span>amandam</span>@armourcoatings.com</a><br>
-      (262)502-1600 <span>ext 204</span>
     </div>
   </div>
 </div>
