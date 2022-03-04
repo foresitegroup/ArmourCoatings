@@ -10,7 +10,10 @@
     </footer>
 
     <div id="copyright">
-      &copy; <?php echo date("Y"); ?> Armour Coatings, Incorporated
+      &copy; <?php echo date("Y"); ?> Armour Coatings, Incorporated<br>
+      <br>
+
+      <a href="https://foresitegrp.com" style="font-size: 60%; color: #B5B5B5; letter-spacing: 0.01em;">WEBSITE BY FORESITE</a>
     </div>
 
   </body>
