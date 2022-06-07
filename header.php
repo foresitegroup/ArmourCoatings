@@ -29,13 +29,22 @@
       });
     </script>
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <!-- Global site tag (gtag.js) - Google Analytics [This will stop working 7/1/23] -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124467439-1"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       gtag('config', 'UA-124467439-1');
+    </script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GXGP0RKTNZ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-GXGP0RKTNZ');
     </script>
   </head>
   <body>
